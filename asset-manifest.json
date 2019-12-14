@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/todo-ext/static/css/main.a7475bd4.chunk.css",
-    "main.js": "/todo-ext/static/js/main.6227894d.chunk.js",
-    "main.js.map": "/todo-ext/static/js/main.6227894d.chunk.js.map",
-    "runtime-main.js": "/todo-ext/static/js/runtime-main.2e0da8ce.js",
-    "runtime-main.js.map": "/todo-ext/static/js/runtime-main.2e0da8ce.js.map",
-    "static/css/2.c726b981.chunk.css": "/todo-ext/static/css/2.c726b981.chunk.css",
-    "static/js/2.911d32e8.chunk.js": "/todo-ext/static/js/2.911d32e8.chunk.js",
-    "static/js/2.911d32e8.chunk.js.map": "/todo-ext/static/js/2.911d32e8.chunk.js.map",
-    "index.html": "/todo-ext/index.html",
-    "precache-manifest.01b1f01a626f1060f9d1f8bdace7f3b8.js": "/todo-ext/precache-manifest.01b1f01a626f1060f9d1f8bdace7f3b8.js",
-    "service-worker.js": "/todo-ext/service-worker.js",
-    "static/css/2.c726b981.chunk.css.map": "/todo-ext/static/css/2.c726b981.chunk.css.map",
-    "static/css/main.a7475bd4.chunk.css.map": "/todo-ext/static/css/main.a7475bd4.chunk.css.map",
-    "static/js/2.911d32e8.chunk.js.LICENSE": "/todo-ext/static/js/2.911d32e8.chunk.js.LICENSE"
+    "main.css": "/nerdysoft-test-task/static/css/main.a7475bd4.chunk.css",
+    "main.js": "/nerdysoft-test-task/static/js/main.6227894d.chunk.js",
+    "main.js.map": "/nerdysoft-test-task/static/js/main.6227894d.chunk.js.map",
+    "runtime-main.js": "/nerdysoft-test-task/static/js/runtime-main.14299d28.js",
+    "runtime-main.js.map": "/nerdysoft-test-task/static/js/runtime-main.14299d28.js.map",
+    "static/css/2.c726b981.chunk.css": "/nerdysoft-test-task/static/css/2.c726b981.chunk.css",
+    "static/js/2.81909b8c.chunk.js": "/nerdysoft-test-task/static/js/2.81909b8c.chunk.js",
+    "static/js/2.81909b8c.chunk.js.map": "/nerdysoft-test-task/static/js/2.81909b8c.chunk.js.map",
+    "index.html": "/nerdysoft-test-task/index.html",
+    "precache-manifest.d40a6496d4e754ef25a8adee20ff668c.js": "/nerdysoft-test-task/precache-manifest.d40a6496d4e754ef25a8adee20ff668c.js",
+    "service-worker.js": "/nerdysoft-test-task/service-worker.js",
+    "static/css/2.c726b981.chunk.css.map": "/nerdysoft-test-task/static/css/2.c726b981.chunk.css.map",
+    "static/css/main.a7475bd4.chunk.css.map": "/nerdysoft-test-task/static/css/main.a7475bd4.chunk.css.map",
+    "static/js/2.81909b8c.chunk.js.LICENSE": "/nerdysoft-test-task/static/js/2.81909b8c.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e0da8ce.js",
+    "static/js/runtime-main.14299d28.js",
     "static/css/2.c726b981.chunk.css",
-    "static/js/2.911d32e8.chunk.js",
+    "static/js/2.81909b8c.chunk.js",
     "static/css/main.a7475bd4.chunk.css",
     "static/js/main.6227894d.chunk.js"
   ]
